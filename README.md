@@ -1,0 +1,119 @@
+# NEO – Go Go Money (Extended Mix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:54.31] Get some money
+[00:56.28] Gettin' wild
+[00:57.55] Get a feelin' everywhere
+[01:00.91] I just wanna spend "love" some money
+[01:04.24] Baby let me play until tonight
+[01:19.24] 
+[01:06.61] Dancin' into the fire
+[01:10.07] Money go money go!!!
+[01:13.30] Runnin' just like a tiger
+[01:16.29] How much do you want me?
+[01:28.29] 
+[01:19.29] I'm ready go go money
+[01:20.93] Rise your hand into the night
+[01:23.24] Let money go it's only money
+[01:25.79] Go go money
+[01:27.35] Come and dance into my world
+[01:29.74] Go money!!!
+[01:30.81] Baby it's a pleasure
+[01:40.81] 
+[01:32.09] Go go money
+[01:33.63] Rise your hand into the night
+[01:35.38] Let money go it's only money
+[01:38.36] Go go money
+[01:40.02] Come and dance into my world
+[01:42.02] Go money!!!
+[01:42.72] Baby it's over
+[01:49.72] 
+[01:45.10] Go go money
+[01:51.08] Go go money
+[01:56.58] 
+[01:57.36] Oh my little wonder
+[02:00.05] Get money how get some money
+[02:14.05] 
+[02:00.31] Get me honey
+[02:02.45] Get me wild
+[02:03.11] Shake your body day and night
+[02:07.09] I just wanna make love for money
+[02:10.07] 'Cause I'm gonna play with you tonight
+[02:29.07] 
+[02:13.09] Dancin' into the fire
+[02:16.35] Money go money go!!!
+[02:19.39] Runnin' just like a tiger
+[02:22.33] How much do you want me?
+[02:34.33] 
+[02:25.55] I'm ready go go money
+[02:27.16] Rise your hand into the night
+[02:29.32] Let money go it's only money
+[02:32.05] Go go money
+[02:33.45] Come and dance into my world
+[02:35.73] Go money!!!
+[02:36.78] Baby it's a pleasure
+[02:46.78] 
+[02:38.44] Go go money
+[02:39.79] Rise your hand into the night
+[02:42.03] Let money go it's only money
+[02:44.75] Go go money
+[02:46.09] Come and dance into my world
+[02:48.26] Go money!!!
+[02:49.13] Baby it's over
+[02:56.13] 
+[02:51.64] Oh my little wonder
+[03:06.88] Get money how get some money
+[03:20.88] 
+[03:10.35] Get some money
+[03:11.96] Gettin' wild
+[03:13.38] Get a feelin' everywhere
+[03:16.33] I just wanna spend "love" some money
+[03:19.62] Baby let me play until tonight
+[03:34.62] 
+[03:22.62] Dancin' into the fire
+[03:25.65] Money go money go!!!
+[03:28.87] Runnin' just like a tiger
+[03:31.93] How much do you want me?
+[03:43.93] 
+[03:34.63] I'm ready go go money
+[03:36.63] Rise your hand into the night
+[03:38.71] Let money go it's only money
+[03:41.47] Go go money
+[03:42.62] Come and dance into my world
+[03:45.03] Go money!!!
+[03:46.23] Baby it's a pleasure
+[03:56.23] 
+[03:47.78] Go go money
+[03:49.36] Rise your hand into the night
+[03:51.59] Let money go it's only money
+[03:54.04] Go go money
+[03:55.80] Come and dance into my world
+[03:57.68] Go money!!!
+[03:58.49] Baby it's over
+[04:05.49] 
+[04:00.58] Go go money
+[04:06.80] Go go money
+[04:12.30] 
+[04:13.24] Dancin' into the fire
+[04:16.18] Money go money go!!!
+[04:19.56] Runnin' just like a tiger
+[04:22.46] How much do you want me?
+[04:34.46] 
+[04:27.02] I'm ready go go money
+[04:28.75] Rise your hand into the night
+[04:30.73] Let money go it's only money
+[04:33.58] Go go money
+[04:35.11] Come and dance into my world
+[04:37.26] Go money!!!
+[04:38.18] Baby it's a pleasure
+[04:48.18] 
+[04:40.13] Go go money
+[04:41.19] Rise your hand into the night
+[04:43.26] Let money go it's only money
+[04:46.26] Go go money
+[04:47.92] Come and dance into my world
+[04:49.89] Go money!!!
+[04:50.57] Baby it's over
+```
