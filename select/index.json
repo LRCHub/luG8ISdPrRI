@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Go Go Money (Extended Mix)",
+  "base_artist": "NEO",
+  "createdAt": "2025-12-14T13:22:04.520142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Go Money (Extended Mix)",
+      "artist": "NEO",
+      "has_synced": true,
+      "path": "select/01_Go_Go_Money_(Extended_Mix)_NEO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go Go Money - Extended Mix",
+      "artist": "Neo",
+      "has_synced": false,
+      "path": "select/pl_01_Go_Go_Money_-_Extended_Mix_Neo.txt"
+    }
+  ]
+}
